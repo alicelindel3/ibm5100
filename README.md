@@ -3,7 +3,7 @@
 
 10/18　導入
 
-10/25　Numpy
+10/25　Numpy　https://numpy.org/doc/stable/reference/index.html
 
 11/01　Pandas
 
