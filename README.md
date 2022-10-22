@@ -5,7 +5,7 @@
 
 10/25　Numpy　https://numpy.org/doc/stable/reference/index.html
 
-11/01　Pandas
+11/01　Pandas　https://pandas.pydata.org/docs/reference/index.html
 
 11/08　Matplotlib　https://matplotlib.org/stable/api/index.html
 
