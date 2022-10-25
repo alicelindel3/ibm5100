@@ -20,3 +20,5 @@
 12/13　特徴量エンジニアリング
 
 12/20　マーケティング
+
+https://github.com/alicelindel3/math
