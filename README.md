@@ -1,5 +1,5 @@
 # ibm5100
-10/13　受講開始
+10/13　受講開始　https://prog-8.com/courses/python
 
 10/18　導入
 
