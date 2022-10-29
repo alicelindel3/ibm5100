@@ -41,3 +41,8 @@ GCIは東京大学松尾研究室が主宰するデータサイエンティス�
 01/17　ゲスト講師２
 
 01/24　ゲスト講師３
+
+## 優秀生
+[山野 智寛](https://github.com/apppleNova802/GCI2020_Summer)
+
+[野田 裕斗](https://github.com/Hirochon/GCI2020-Summer)
