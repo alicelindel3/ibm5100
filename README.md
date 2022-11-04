@@ -43,10 +43,10 @@
 
 01/24　ゲスト講師３
 
-## 優秀生
-[山野 智寛](https://github.com/apppleNova802/GCI2020_Summer)
+## コンペ
+[総合順位](https://github.com/apppleNova802/GCI2020_Summer)
 
-[野田 裕斗](https://github.com/Hirochon/GCI2020-Summer)
+[第一回](https://github.com/haruharuharuko/GCI2020-Winter)
 
 ## 参考文献
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
