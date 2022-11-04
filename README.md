@@ -5,7 +5,7 @@ GCIは東京大学松尾研究室が主宰するデータサイエンティス�
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
-    - Pythonの基礎からNumpy・Pandasといったライブラリ、scikit-learnのようなフレームワークを学習。データの加工、データの可視化、教師あり学習がメイン。
+    - Pythonの基礎からNumpy・Pandasといったライブラリ、[scikit-learn](https://scikit-learn.org/stable/modules/classes.html)のようなフレームワークを学習。
     - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
@@ -14,15 +14,15 @@ GCIは東京大学松尾研究室が主宰するデータサイエンティス�
     - こちらの講座では、各週一人ゲスト講師を招く。https://note.nkmk.me/
 ## カリキュラム・日程
 
-10/13　[受講開始](https://alicelindel3.dreamlog.jp/archives/17259900.html)
+[10/13](https://alicelindel3.dreamlog.jp/archives/17259900.html)　受講開始
 
 10/18　導入
 
-10/25　Numpy　[Reference](https://numpy.org/doc/stable/reference/index.html)
+10/25　[Numpy](https://numpy.org/doc/stable/reference/index.html)
 
-11/01　Pandas　[Reference](https://pandas.pydata.org/docs/reference/index.html)
+11/01　[Pandas](https://pandas.pydata.org/docs/reference/index.html)
 
-11/08　Matplotlib　[Reference](https://matplotlib.org/stable/api/index.html)
+11/08　[Matplotlib](https://matplotlib.org/stable/api/index.html)
 
 11/15　教師あり学習
 
@@ -46,3 +46,6 @@ GCIは東京大学松尾研究室が主宰するデータサイエンティス�
 [山野 智寛](https://github.com/apppleNova802/GCI2020_Summer)
 
 [野田 裕斗](https://github.com/Hirochon/GCI2020-Summer)
+
+## 参考文献
+[Python公式サイト](https://www.python.org/)
