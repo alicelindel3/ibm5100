@@ -1,4 +1,4 @@
-# インテリジェンス寄附講座
+# 寄附講座
 詳細な内容は[こちら](https://gci.t.u-tokyo.ac.jp/gci-2022-winter/)から
 ## 本レポジトリについて
 データサイエンティスト育成講座
@@ -44,7 +44,7 @@
 01/24　ゲスト講師３
 
 ## 優秀生
-[山野 智寛](https://github.com/apppleNova802/GCI2020_Summer)
+[山野 智寛](https://github.com/apppleNova802/GCI2020_Summer)　総合順位
 
 [野田 裕斗](https://github.com/Hirochon/GCI2020-Summer)
 
