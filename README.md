@@ -51,6 +51,6 @@
 ## 参考文献
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 
-[Python公式サイト](https://www.python.org/)
-
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Python Official Site](https://www.python.org/)
