@@ -58,6 +58,8 @@
 
 [Python Official Site](https://www.python.org/)
 ### Numpy
+[NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)
+
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)
 
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
