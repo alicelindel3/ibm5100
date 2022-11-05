@@ -59,7 +59,11 @@
 [Python Official Site](https://www.python.org/)
 ### Numpy
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)
+
+[NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
 ### Pandas
+[pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)
+
 [Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)
 
 [Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
