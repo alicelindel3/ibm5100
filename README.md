@@ -49,8 +49,11 @@
 [第一回](https://github.com/haruharuharuko/GCI2020-Winter)
 
 ## 参考文献
+### Python
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Python Official Site](https://www.python.org/)
+### Library
+[Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
