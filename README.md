@@ -1,5 +1,7 @@
 # 寄附講座
 詳細な内容は[こちら](https://gci.t.u-tokyo.ac.jp/gci-2022-winter/)から
+
+[データサイエンティストのつくり方](https://www.slideshare.net/shoheihido/120913-pfi-dist)
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
