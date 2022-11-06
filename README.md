@@ -55,7 +55,9 @@
 [How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
 [PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
-[Python Official Site](https://www.python.org/)
+[Python Official Site](https://www.python.org/)  
+[SciPy](https://scipy.org/)  
+[Scipy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
 ### Numpy
 [NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
