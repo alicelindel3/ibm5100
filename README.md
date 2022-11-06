@@ -6,7 +6,7 @@
 活動内容は大きく分けて３種類
 1. 通常講義
     - [Python](https://note.nkmk.me/python/)の基礎からNumpy・Pandasといったライブラリ、[scikit-learn](https://scikit-learn.org/stable/modules/classes.html)のようなフレームワークを学習。
-    - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。[数学](https://github.com/alicelindel3/math)
+    - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
     - 最終課題は過去のコンペからの出題であり、[優秀生](https://gci.t.u-tokyo.ac.jp/deans_list/)を目指すならコンペにしっかり取り組むのが近道。
@@ -43,33 +43,26 @@
 
 01/24　ゲスト講師３
 
-## コンペ
+## データ分析
 [総合順位](https://github.com/apppleNova802/GCI2020_Summer)
 
 [第一回](https://github.com/haruharuharuko/GCI2020-Winter)
 
+[数学](https://github.com/alicelindel3/math)
 ## 参考文献
 ### Basic
-[A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
-
-[How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)
-
-[PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)
-
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
+[A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  
+[How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
+[PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)  
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Python Official Site](https://www.python.org/)
 ### Numpy
-[NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)
-
-[NumPy で行列計算](https://pythondatascience.plavox.info/numpy)
-
+[NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
+[NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
 ### Pandas
-[pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)
-
-[Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)
-
+[pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)  
+[Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
 [Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
 ### Matplotlib
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
