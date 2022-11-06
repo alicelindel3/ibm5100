@@ -52,6 +52,7 @@
 ## 参考文献
 ### Basic
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  
+[Deep Learning](https://www.deeplearningbook.org/)  
 [How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
 [PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
