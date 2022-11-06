@@ -6,7 +6,7 @@
 活動内容は大きく分けて３種類
 1. 通常講義
     - [Python](https://note.nkmk.me/python/)の基礎からNumpy・Pandasといったライブラリ、[scikit-learn](https://scikit-learn.org/stable/modules/classes.html)のようなフレームワークを学習。
-    - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
+    - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。[数学](https://github.com/alicelindel3/math)
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
     - 最終課題は過去のコンペからの出題であり、[優秀生](https://gci.t.u-tokyo.ac.jp/deans_list/)を目指すならコンペにしっかり取り組むのが近道。
