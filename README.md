@@ -74,11 +74,11 @@
 ### Matplotlib
 [API Reference](https://matplotlib.org/stable/api/index.html)  
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
+### Scikit-learn
+[API Reference](https://scikit-learn.org/stable/modules/classes.html)  
 ### 統計の基礎
 [統計学の時間](https://bellcurve.jp/statistics/course/#step1)  
 [主成分分析の考え方](https://logics-of-blue.com/principal-components-analysis/)  
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
-### Scikit-learn
-[API Reference](https://scikit-learn.org/stable/modules/classes.html)  
