@@ -23,9 +23,9 @@
 
 10/25　[Numpy](#numpy)
 
-11/01　[Pandas](https://github.com/alicelindel3/ibm5100/edit/main/README.md#pandas)
+11/01　[Pandas](#pandas)
 
-11/08　[Matplotlib](https://github.com/alicelindel3/ibm5100/edit/main/README.md#matplotlib)　[統計の基礎](https://github.com/alicelindel3/ibm5100/edit/main/README.md#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](https://github.com/alicelindel3/ibm5100/edit/main/README.md#scikit-learn)
+11/08　[Matplotlib](#matplotlib)　[統計の基礎](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](#scikit-learn)
 
 11/15　教師あり学習
 
