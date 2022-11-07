@@ -21,7 +21,7 @@
 
 10/18　導入
 
-10/25　[Numpy](https://github.com/alicelindel3/ibm5100/edit/main/README.md#numpy)
+10/25　[Numpy](#numpy)
 
 11/01　[Pandas](https://github.com/alicelindel3/ibm5100/edit/main/README.md#pandas)
 
