@@ -7,7 +7,7 @@
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
-    - [Python](https://note.nkmk.me/python/)の基礎からNumpy・Pandasといったライブラリ、[scikit-learn](https://scikit-learn.org/stable/modules/classes.html)のようなフレームワークを学習。
+    - [Python](https://note.nkmk.me/python/)の基礎からNumpy・Pandasといったライブラリ、Scikit-learnのようなフレームワークを学習。
     - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
@@ -21,11 +21,11 @@
 
 10/18　導入
 
-10/25　[Numpy](https://numpy.org/doc/stable/reference/index.html)
+10/25　[Numpy](https://github.com/alicelindel3/ibm5100/edit/main/README.md#numpy)
 
-11/01　[Pandas](https://pandas.pydata.org/docs/reference/index.html)
+11/01　[Pandas](https://github.com/alicelindel3/ibm5100/edit/main/README.md#pandas)
 
-11/08　[Matplotlib](https://matplotlib.org/stable/api/index.html)
+11/08　[Matplotlib](https://github.com/alicelindel3/ibm5100/edit/main/README.md#matplotlib)　[統計の基礎](https://github.com/alicelindel3/ibm5100/edit/main/README.md#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](https://github.com/alicelindel3/ibm5100/edit/main/README.md#scikit-learn)
 
 11/15　教師あり学習
 
@@ -46,11 +46,11 @@
 01/24　ゲスト講師３
 
 ## データ分析
-[総合順位](https://github.com/apppleNova802/GCI2020_Summer)
+[数学](https://github.com/alicelindel3/math)
 
 [第一回](https://github.com/haruharuharuko/GCI2020-Winter)
 
-[数学](https://github.com/alicelindel3/math)
+[総合順位](https://github.com/apppleNova802/GCI2020_Summer)
 ## 参考文献
 ### Basic
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  
@@ -62,12 +62,23 @@
 [SciPy](https://scipy.org/)  
 [Scipy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
 ### Numpy
+[API reference](https://numpy.org/doc/stable/reference/index.html)  
 [NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
 ### Pandas
+[API reference](https://pandas.pydata.org/docs/reference/index.html)  
 [pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)  
 [Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
 [Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
 ### Matplotlib
+[API Reference](https://matplotlib.org/stable/api/index.html)  
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
+### 統計の基礎
+[統計学の時間](https://bellcurve.jp/statistics/course/#step1)  
+[主成分分析の考え方](https://logics-of-blue.com/principal-components-analysis/)  
+[データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
+[環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
+[Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
+### Scikit-learn
+[API Reference](https://scikit-learn.org/stable/modules/classes.html)  
