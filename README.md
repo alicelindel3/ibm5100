@@ -63,7 +63,7 @@
 [Scipy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
 ### NumPy
 [API reference](https://numpy.org/doc/stable/reference/index.html)  
-[NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
+[NumPyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
 ### pandas
