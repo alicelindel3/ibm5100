@@ -7,7 +7,7 @@
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
-    - [Python](https://note.nkmk.me/python/)の基礎からNumpy・Pandasといったライブラリ、Scikit-learnのようなフレームワークを学習。
+    - [Python](https://note.nkmk.me/python/)の基礎からNumPy・pandasといったライブラリ、Scikit-learnのようなフレームワークを学習。
     - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
@@ -21,9 +21,9 @@
 
 10/18　導入
 
-10/25　[Numpy](#numpy)
+10/25　[NumPy](#numpy)
 
-11/01　[Pandas](#pandas)
+11/01　[pandas](#pandas)
 
 11/08　[Matplotlib](#matplotlib)　[統計の基礎](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](#scikit-learn)
 
@@ -61,12 +61,12 @@
 [Python Official Site](https://www.python.org/)  
 [SciPy](https://scipy.org/)  
 [Scipy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
-### Numpy
+### NumPy
 [API reference](https://numpy.org/doc/stable/reference/index.html)  
 [NumpyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
-### Pandas
+### pandas
 [API reference](https://pandas.pydata.org/docs/reference/index.html)  
 [pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)  
 [Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
