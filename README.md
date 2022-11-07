@@ -25,7 +25,7 @@
 
 11/01　[pandas](#pandas)
 
-11/08　[Matplotlib](#matplotlib)　[統計の基礎](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](#scikit-learn)
+11/08　[matplotlib](#matplotlib)　[統計の基礎](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[Scikit-learn](#scikit-learn)
 
 11/15　教師あり学習
 
@@ -71,10 +71,10 @@
 [pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)  
 [Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
 [Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
-### Matplotlib
+### matplotlib
 [API Reference](https://matplotlib.org/stable/api/index.html)  
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
-### Scikit-learn
+### scikit-learn
 [API Reference](https://scikit-learn.org/stable/modules/classes.html)  
 [scikit-learn で機械学習](https://pythondatascience.plavox.info/scikit-learn)
 ### 統計の基礎
