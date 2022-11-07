@@ -60,17 +60,17 @@
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Python Official Site](https://www.python.org/)  
 [SciPy](https://scipy.org/)  
-[Scipy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
+[SciPy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
 ### NumPy
 [API reference](https://numpy.org/doc/stable/reference/index.html)  
-[NumPyとScipy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
+[NumPyとSciPy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
 [NumPy で行列計算](https://pythondatascience.plavox.info/numpy)  
 [NumPy関連記事まとめ](https://note.nkmk.me/python-numpy-post-summary/)
 ### pandas
 [API reference](https://pandas.pydata.org/docs/reference/index.html)  
 [pandas関連記事まとめ](https://note.nkmk.me/python-pandas-post-summary/)  
-[Pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
-[Python初学者のためのPandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
+[pandas でデータフレームを扱う](https://pythondatascience.plavox.info/pandas)  
+[Python初学者のためのpandas100本ノック](https://qiita.com/kunishou/items/bd5fad9a334f4f5be51c)
 ### matplotlib
 [API Reference](https://matplotlib.org/stable/api/index.html)  
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
