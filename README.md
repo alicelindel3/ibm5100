@@ -77,7 +77,7 @@
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
 ### scikit-learn
 [API Reference](https://scikit-learn.org/stable/modules/classes.html)  
-[RANSACRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html)
+[RANSACRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html)  
 [scikit-learn で機械学習](https://pythondatascience.plavox.info/scikit-learn)
 ### 統計の基礎
 [統計学の時間](https://bellcurve.jp/statistics/course/#step1)  
