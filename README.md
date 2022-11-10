@@ -60,7 +60,8 @@
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Python Official Site](https://www.python.org/)  
 [SciPy](https://scipy.org/)  
-[SciPy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
+[SciPy Lecture Notes](http://www.turbare.net/transl/scipy-lecture-notes/index.html)  
+[Weights & Biases](https://wandb.ai/site)
 ### NumPy
 [API reference](https://numpy.org/doc/stable/reference/index.html)  
 [NumPyとSciPy](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/slide/numpy.pdf)  
@@ -76,6 +77,7 @@
 [matplotlib でグラフ作成](https://pythondatascience.plavox.info/matplotlib)
 ### scikit-learn
 [API Reference](https://scikit-learn.org/stable/modules/classes.html)  
+[RANSACRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html)
 [scikit-learn で機械学習](https://pythondatascience.plavox.info/scikit-learn)
 ### 統計の基礎
 [統計学の時間](https://bellcurve.jp/statistics/course/#step1)  
