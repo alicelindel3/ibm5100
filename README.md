@@ -25,7 +25,7 @@
 
 11/01　[pandas](#pandas)
 
-11/08　[matplotlib](#matplotlib)　[統計の基礎](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
+11/08　[matplotlib](#matplotlib)　[統計解析](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
 
 11/15　教師あり学習
 
