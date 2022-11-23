@@ -1,1 +1,0 @@
-SQLの演習ファイルはGoogle Colaboratoryでは動きません
