@@ -57,6 +57,7 @@
 [Deep Learning](https://www.deeplearningbook.org/)  
 [How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
 [PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)  
+[Progateのスライド検索](https://prog-8.com/slides?)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Python Official Site](https://www.python.org/)  
 [SciPy](https://scipy.org/)  
@@ -85,3 +86,5 @@
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
+### SQL  
+[SQLite](https://sqlite.org/index.html)  
