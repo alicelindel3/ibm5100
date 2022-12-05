@@ -86,6 +86,3 @@
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
-### SQL  
-[Set up MySQL](https://prog-8.com/docs/mysql-env-win)  
-[What Is SQLite?](https://sqlite.org/index.html)  
