@@ -31,7 +31,7 @@
 
 11/22　教師なし学習
 
-11/29　[SQL](#sql)
+11/29　[SQL](https://github.com/alicelindel3/ibm5100/tree/main/1129)
 
 12/06　モデル検証とチューニング
 
