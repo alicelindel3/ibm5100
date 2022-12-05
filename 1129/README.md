@@ -1,4 +1,4 @@
-## [実行順序](https://prog-8.com/slides?displayed_id=6301&favorite=true)
+## [実行順序](https://prog-8.com/slides?displayed_id=6301&lesson=180)
 FROM  
 ON / JOIN  
 WHERE  
@@ -9,7 +9,7 @@ SELECT / DISTINCT
 ORDER BY  
 LIMIT
 
-## [4つの構文](https://prog-8.com/slides?displayed_id=10725&favorite=true)
+## [4つの構文](https://prog-8.com/slides?displayed_id=10725&lesson=319)
 ### 取得
 SELECT カラムA,カラムB  
 FROM テーブル名;
