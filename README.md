@@ -17,7 +17,7 @@
     - アーカイブ公開なし。リアルタイム配信のみ。
 ## カリキュラム・日程
 
-[10/13](https://alicelindel3.dreamlog.jp/archives/17259900.html)　受講開始
+[10/13](https://github.com/alicelindel3/ibm5100/tree/main/1013)　[受講開始](https://alicelindel3.dreamlog.jp/archives/17259900.html)
 
 10/18　導入
 
@@ -31,7 +31,7 @@
 
 11/22　教師なし学習
 
-11/29　[SQL](https://github.com/alicelindel3/ibm5100/tree/main/1129)
+[11/29](https://github.com/alicelindel3/ibm5100/tree/main/1129)　[SQL](#sql)
 
 12/06　モデル検証とチューニング
 
@@ -86,3 +86,4 @@
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
+### SQL
