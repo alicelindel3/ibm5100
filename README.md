@@ -19,23 +19,23 @@
 
 [10/13](https://github.com/alicelindel3/ibm5100/tree/main/1013)　[受講開始](https://alicelindel3.dreamlog.jp/archives/17259900.html)
 
-10/18　導入
+[10/18](https://github.com/alicelindel3/ibm5100/tree/main/1018)　導入
 
-10/25　[NumPy](#numpy)
+[10/25](https://github.com/alicelindel3/ibm5100/tree/main/1025)　[NumPy](#numpy)
 
-11/01　[pandas](#pandas)
+[11/01](https://github.com/alicelindel3/ibm5100/tree/main/1101)　[pandas](#pandas)
 
-11/08　[matplotlib](#matplotlib)　[統計解析](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
+[11/08](https://github.com/alicelindel3/ibm5100/tree/main/1108)　[matplotlib](#matplotlib)　[統計解析](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
 
-11/15　教師あり学習
+[11/15](https://github.com/alicelindel3/ibm5100/tree/main/1125)　教師あり学習
 
-11/22　教師なし学習
+[11/22](https://github.com/alicelindel3/ibm5100/tree/main/1122)　教師なし学習
 
 [11/29](https://github.com/alicelindel3/ibm5100/tree/main/1129)　[SQL](#sql)
 
-12/06　モデル検証とチューニング
+[12/06](https://github.com/alicelindel3/ibm5100/tree/main/1206)　モデル検証とチューニング
 
-12/13　特徴量エンジニアリング
+[12/13](https://github.com/alicelindel3/ibm5100/tree/main/1213)　特徴量エンジニアリング
 
 12/20　マーケティング
 
