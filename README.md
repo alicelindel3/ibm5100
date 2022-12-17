@@ -54,6 +54,7 @@
 ## 参考文献
 ### Basic
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  
+[chainFlyer](https://chainflyer.bitflyer.com/)  
 [Deep Learning](https://www.deeplearningbook.org/)  
 [How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
 [paizaとはどんなサービス？](https://paiza.jp/pages/first-guide?type=guide_img)  
