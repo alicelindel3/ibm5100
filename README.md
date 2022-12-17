@@ -56,6 +56,7 @@
 [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  
 [Deep Learning](https://www.deeplearningbook.org/)  
 [How to use Markdown](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Working%20With%20Markdown%20Cells.html)  
+[paizaとはどんなサービス？](https://paiza.jp/pages/first-guide?type=guide_img)  
 [PEP: 8（Python コードのスタイルガイド）](https://pep8-ja.readthedocs.io/ja/latest/)  
 [Progateのスライド検索](https://prog-8.com/slides?)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
