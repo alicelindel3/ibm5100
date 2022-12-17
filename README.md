@@ -27,7 +27,7 @@
 
 [11/08](https://github.com/alicelindel3/ibm5100/tree/main/1108)　[matplotlib](#matplotlib)　[統計解析](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
 
-[11/15](https://github.com/alicelindel3/ibm5100/tree/main/1125)　[教師あり学習](https://www.slideshare.net/secret/vX8R8QmuddU3wb)
+[11/15](https://github.com/alicelindel3/ibm5100/tree/main/1115)　[教師あり学習](https://www.slideshare.net/secret/vX8R8QmuddU3wb)
 
 [11/22](https://github.com/alicelindel3/ibm5100/tree/main/1122)　教師なし学習
 
