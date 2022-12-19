@@ -23,3 +23,6 @@ WHERE 条件;
 ### 削除
 DELETE FROM テーブル名  
 WHERE 条件;
+
+## 参考文献
+[SQLite Home Page](https://sqlite.org/index.html)  
