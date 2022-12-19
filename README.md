@@ -7,7 +7,7 @@
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
-    - [Pythonの基礎](https://www.slideshare.net/secret/D7D6PTz9cvTIS8)から[NumPy](#numpy)・[pandas](#pandas)といったライブラリ、[scikit-learn](#scikit-learn)のようなフレームワークを学習。
+    - [Pythonの基礎](https://www.slideshare.net/secret/Nvqqa9I663biQQ)から[NumPy](#numpy)・[pandas](#pandas)といったライブラリ、[scikit-learn](#scikit-learn)のようなフレームワークを学習。
     - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
