@@ -33,7 +33,7 @@
 
 [11/29](https://github.com/alicelindel3/ibm5100/tree/main/1129)　[SQL](#sql)
 
-[12/06](https://github.com/alicelindel3/ibm5100/tree/main/1206)　モデル検証とチューニング
+[12/06](https://github.com/alicelindel3/ibm5100/tree/main/1206)　[モデル検証とチューニング](https://www.slideshare.net/secret/3ff1wULcZMjVls)
 
 [12/13](https://github.com/alicelindel3/ibm5100/tree/main/1213)　特徴量エンジニアリング
 
