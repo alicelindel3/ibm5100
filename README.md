@@ -31,13 +31,13 @@
 
 [11/22](https://github.com/alicelindel3/ibm5100/tree/main/1122)　教師なし学習
 
-[11/29](https://github.com/alicelindel3/ibm5100/tree/main/1129)　[SQL](#sql)
+[11/29](https://github.com/alicelindel3/ibm5100/tree/main/1129)　[SQL](https://www.slideshare.net/secret/aUuWvIS2t5ah25)
 
 [12/06](https://github.com/alicelindel3/ibm5100/tree/main/1206)　[モデル検証とチューニング](https://www.slideshare.net/secret/3ff1wULcZMjVls)
 
 [12/13](https://github.com/alicelindel3/ibm5100/tree/main/1213)　特徴量エンジニアリング
 
-12/20　[マーケティングとデータサイエンス](https://www.slideshare.net/secret/vQYyLeONXkdbFg)
+12/20　[マーケティング](https://www.slideshare.net/secret/vQYyLeONXkdbFg)
 
 01/10　ゲスト講師１
 
@@ -88,5 +88,3 @@
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
-### SQL
-[SQLite Home Page](https://sqlite.org/index.html)  
