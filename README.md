@@ -7,7 +7,7 @@
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
-    - [Python](https://note.nkmk.me/python/)の基礎からNumPy・pandasといったライブラリ、scikit-learnのようなフレームワークを学習。
+    - [Pythonの基礎](https://www.slideshare.net/secret/D7D6PTz9cvTIS8)から[NumPy](#numpy)・[pandas](#pandas)といったライブラリ、[scikit-learn](#scikit-learn)のようなフレームワークを学習。
     - 毎週出る宿題が講座修了条件の一つ、講義に必死に取り組んで宿題を提出しながら基礎掴め。
 2. データ分析コンペ（全て[kaggle](https://github.com/alicelindel3/kaggle)からの出典）
     - 講義で簡単な導入を行ったあとは、自分で実装してみるのが一番力がつくと実感！
@@ -19,13 +19,13 @@
 
 [10/13](https://github.com/alicelindel3/ibm5100/tree/main/1013)　[受講開始](https://alicelindel3.dreamlog.jp/archives/17259900.html)
 
-[10/18](https://github.com/alicelindel3/ibm5100/tree/main/1018)　導入
+[10/18](https://github.com/alicelindel3/ibm5100/tree/main/1018)　[導入](https://www.slideshare.net/secret/olcqUx5wrONx3J)
 
-[10/25](https://github.com/alicelindel3/ibm5100/tree/main/1025)　[NumPy](#numpy)
+[10/25](https://github.com/alicelindel3/ibm5100/tree/main/1025)　[NumPy](https://www.slideshare.net/secret/z6DeIjL4D400Lh)
 
-[11/01](https://github.com/alicelindel3/ibm5100/tree/main/1101)　[pandas](#pandas)
+[11/01](https://github.com/alicelindel3/ibm5100/tree/main/1101)　[pandas](https://www.slideshare.net/secret/ydJiWwgBhUpe1P)
 
-[11/08](https://github.com/alicelindel3/ibm5100/tree/main/1108)　[matplotlib](#matplotlib)　[統計解析](#%E7%B5%B1%E8%A8%88%E3%81%AE%E5%9F%BA%E7%A4%8E)　[scikit-learn](#scikit-learn)
+[11/08](https://github.com/alicelindel3/ibm5100/tree/main/1108)　[Pythonによるデータの可視化](https://www.slideshare.net/secret/D7D6PTz9cvTIS8)
 
 [11/15](https://github.com/alicelindel3/ibm5100/tree/main/1115)　[教師あり学習](https://www.slideshare.net/secret/vX8R8QmuddU3wb)
 
