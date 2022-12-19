@@ -37,7 +37,7 @@
 
 [12/13](https://github.com/alicelindel3/ibm5100/tree/main/1213)　特徴量エンジニアリング
 
-12/20　[マーケティング](https://www.slideshare.net/secret/vQYyLeONXkdbFg)
+[12/20](https://github.com/alicelindel3/ibm5100/tree/main/1220)　[マーケティング](https://www.slideshare.net/secret/vQYyLeONXkdbFg)
 
 01/10　ゲスト講師１
 
