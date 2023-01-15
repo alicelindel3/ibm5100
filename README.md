@@ -3,8 +3,7 @@
 
 [データサイエンティストのつくり方](https://www.slideshare.net/shoheihido/120913-pfi-dist)  
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
-[環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
-[九州大学 数理・データサイエンス教育研究センター](http://mdsc.kyushu-u.ac.jp/lectures)
+[環境と品質のためのデータサイエンス](http://data-science.tokyo/)
 ## 活動概要
 活動内容は大きく分けて３種類
 1. 通常講義
@@ -89,3 +88,5 @@
 [データサイエンス・データ解析入門](https://www.stat.go.jp/teacher/comp-learn-04.html)  
 [環境と品質のためのデータサイエンス](http://data-science.tokyo/)  
 [Statistical Learning with Sparsity The Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)  
+### その他
+[九州大学 数理・データサイエンス教育研究センター](http://mdsc.kyushu-u.ac.jp/lectures)
