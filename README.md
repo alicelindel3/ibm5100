@@ -39,9 +39,9 @@
 
 [12/20](https://github.com/alicelindel3/ibm5100/tree/main/1220)　[マーケティング](https://www.slideshare.net/secret/vQYyLeONXkdbFg)
 
-[01/10](https://twitter.com/moepy_stats)　[ゲスト講師１](https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-2023)
+[01/10](https://speakerdeck.com/moepy_stats)　[ゲスト講師１](https://www.slideshare.net/secret/1I9HOlb74AxcGm)
 
-01/17　ゲスト講師２
+[01/17](https://blog.apparel-web.com/theme/consultant/author/chigira)　[ゲスト講師２](https://www.slideshare.net/secret/6z4n5MPD3rxDcs)
 
 01/24　ゲスト講師３
 
