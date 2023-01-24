@@ -41,7 +41,7 @@
 
 [01/10](https://speakerdeck.com/moepy_stats)　[ゲスト講師１](https://www.slideshare.net/secret/1I9HOlb74AxcGm)
 
-[01/17](https://blog.apparel-web.com/theme/consultant/author/chigira)　[ゲスト講師２](https://www.slideshare.net/secret/6z4n5MPD3rxDcs)
+[01/17](https://twitter.com/ChigiraKenji)　[ゲスト講師２](https://www.slideshare.net/secret/6z4n5MPD3rxDcs)
 
 [01/24](https://twitter.com/asada23)　ゲスト講師３
 
