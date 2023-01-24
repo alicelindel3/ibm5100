@@ -43,7 +43,7 @@
 
 [01/17](https://blog.apparel-web.com/theme/consultant/author/chigira)　[ゲスト講師２](https://www.slideshare.net/secret/6z4n5MPD3rxDcs)
 
-01/24　ゲスト講師３
+[01/24](https://twitter.com/asada23)　ゲスト講師３
 
 ## データ分析
 [数学](https://github.com/alicelindel3/math)
